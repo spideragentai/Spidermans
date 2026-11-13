@@ -1,9 +1,9 @@
 const TelegramBot = require('node-telegram-bot-api');
 const { startNuclearFlood } = require('./main.js');
 
-const TOKEN = "8962044822:AAGNjh-qyQQsFY6SitarRFMzr5DepQOCNmY";
+const TOKEN = "9087838895:AAF--WU2m-5ap96HStrR2qBvJeKxfefHapI";
 
-const AUTHORIZED_USER_ID = 8710323660;
+const AUTHORIZED_USER_ID = 7623976106;
 
 const bot = new TelegramBot(TOKEN, { polling: true });
 
